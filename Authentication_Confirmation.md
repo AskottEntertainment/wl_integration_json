@@ -1,4 +1,4 @@
-#Authentication Confirmation#
+# Authentication Confirmation 
 
 Sent from ESP to WL whenever we need to confirm that the user authenicated and can use ESP service.
 
