@@ -1,6 +1,6 @@
 # Update Wallets
 
-Allows ESP to get the current wallet amount from WL site.
+Allows ESP to update the wallet amount on the White Label site.
 
 Request from ESP:
 
@@ -52,7 +52,7 @@ __Successful response__
 ```
 
 
-__Failed authentication response__
+__Failed response__
 
 ```
 {

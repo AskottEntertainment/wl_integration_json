@@ -38,6 +38,6 @@ __Successful response__
 ```
 
 
-__Failed authentication response__
+__Failed response__
 
 A none 200 should come back if it fails.
